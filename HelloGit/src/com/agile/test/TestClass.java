@@ -2,7 +2,7 @@ package com.agile.test;
 
 /**
  * Title
- * @author Girlie.Gonzales.AAG
+ * @author Girlie Gonzales
  *
  */
 public class TestClass {
